@@ -1,0 +1,148 @@
+<html>
+	<head>
+		<meta name="google-site-verification" content="xYCvzNsoxFl7xnU5EO49vqRHGDpIRUwO3KX6kLR-ZWs" />
+	<link href="https://fonts.googleapis.com/css?family=Fredoka+One|Open+Sans" rel="stylesheet">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<title>Gamepro5</title>
+	<style>
+		body {
+			font-family: 'Open Sans', sans-serif;
+		}
+		h1 {
+			font-family: 'Fredoka One', cursive;
+		}
+		a:visited {
+			color: blue;
+		}
+	</style>
+	</head>
+
+<body background=images/background.jpg>
+
+<center>
+
+<table border=10 bordercolor=red width=800 bgcolor=#aaa8ad>
+
+<tr><td colspan=2><h1><center>Gamepro5</center></h1></td></tr>
+
+
+	<tr>
+<td colspan=2>
+<center>
+	
+	
+	
+	
+
+	
+<a href=index.html> <img src=images/homebutton.png> </a>
+	
+<a href=news.html> <img src=images/newsbutton.png> </a>
+	
+<a href=music.html> <img src=images/musicbutton.png> </a>
+
+<a href=contact.html> <img src=images/contactbutton.png> </a>
+
+	
+	
+</center>
+</td>
+</tr>
+	
+<tr>
+	<td width=100 valign=top>		
+<center>
+<img src=images/gamepro5.jpg><br> <p>
+
+	<b>Quick Links:</b> <p>
+
+<a href=https://www.youtube.com/channel/UCFXJec3TUakUam-Xgll2-Ow> YouTube Channel </a> <p>
+
+<a href=https://plus.google.com/+Gamepro5> Google+ </a> <p>
+
+<a href=https://play.google.com/store/music/artist/Gamepro5?id=Ajmra62kkt3ebvpoqn2guortpma&hl=en> GooglePlay </a> <p>
+	
+<a href=https://discordapp.com/invite/4N47Cbs> Discord Server </a> <p>
+
+<a href=https://playoverwatch.com/en-us/career/pc/us/Gamepro5-1279> Overwatch Profile </a> <p>
+	
+<a href=https://us.battle.net/forums/en/overwatch/search?a=Gamepro5%231279> Overwatch Fourms Posts </a> <p>
+</center>
+
+
+	</td>
+
+<td valign=top>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gamepro5 is a YouTuber and a Google Play Music Artist. He makes gaming YouTube Videos and makes Techno and Dubstep music on GarageBand. He loves technology and computers and knows a lot about them. He got the idea for his username one time when he was 7 years old he thought of this (kind of cheesy) username - and has been too lazy to change it. "Gamepro" was already taken, so he added his favorite number at the end, and "Gamepro5" was born. He also came up with his logo by himself (When he was 10). His goal is to make fun gaming content, fun techno music on Google Play Music, and to be popular. :)
+<p>
+	
+<p>
+	
+<p>
+	
+<p>
+
+<p>
+	<center><a href=https://www.youtube.com/c/Gamepro5?sub_confirmation=1> <img src=images/subscribebutton.png> </a></center>
+	
+</td>
+</tr>
+	
+	
+
+	
+	
+	
+
+	
+<tr>
+<td colspan=2>
+<center><b>Featured Video</b></center>
+<iframe width="850" height="500"
+src="https://www.youtube.com/embed/TWURPLqVC8g">
+</iframe>
+</td>
+</tr>
+
+</table>
+	<p>
+</center>
+
+	
+<center>
+	
+	<SCRIPT>
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Please type in the Password','');
+while (testV < 3) {
+if (!pass1) 
+history.go(-1);
+if (pass1.toLowerCase() == "texasturtles497") {
+alert('Access Granted');
+window.open('https://gamepro5.github.io/hd3nfdvr8ebr3djceceri4rjunveruybvwni4uf9rvneruvnejvnfcmmwd.html');
+break;
+} 
+testV+=1;
+var pass1 = 
+prompt('Access Denied - Password Incorrect, Please Try Again','Password');
+}
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+} 
+</SCRIPT>
+<CENTER>
+<FORM>
+<input type="button" value="Enter Secret Zone" onClick="passWord()">
+</FORM>
+</CENTER>
+
+
+	<font color="white">Website made by Gamepro5 and was helped by Sheeptester.
+	Visit him <a href=https://sheeptester.github.io> HERE</a>.</font>
+	
+</center>
+</body>	
+
+</html>

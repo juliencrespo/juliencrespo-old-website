@@ -16,6 +16,24 @@
 		a:visited {
 			color: blue;
 		}
+		.btn-group .button {
+    background-color: #4CAF50; /* Green */
+    border: 1px solid orange;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+}
+.btn-group .button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+}
+.btn-group .button:hover {
+    background-color: #3e8e41;
+}
 	</style>
 	</head>
 
@@ -29,23 +47,12 @@
 	
 <tr>
 <td colspan=2>
-<center>
-	
-<a class="button" href=index.html>home</a>
-	
-<a class="button" href=news.html>news</a>
-	
-<a class="button" href=music.html>music</a>
-	
-<a class="button" href=videos.html>videos</a>
-
-<a class="button" href=school.html>school</a>
-  
-<a class="button" href=programs.html>programs</a>
-
-<a class="button" href=contact.html>contact</a>
-	
-</center>
+<div class="btn-group">
+  <button class="button">Button</button>
+  <button class="button">Button</button>
+  <button class="button">Button</button>
+  <button class="button">Button</button>
+</div>
 </td>
 </tr>
 
